@@ -1,4 +1,4 @@
-# 👨‍💻 Personal Projects | Zabdiel Ríos
+# 👨‍💻 Personal Projects | Zabdiel Cervantes
 
 > 🌱 Learning, building, and playing with code.  
 > Where ideas become real—one line at a time.
