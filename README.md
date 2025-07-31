@@ -18,7 +18,7 @@ This repository is my personal playground: a space to test ideas, learn new thin
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zabdiel-rios-cervantes-3b5aa5218/)
 - 🐙 [GitHub](https://github.com/Chillipeeper1)
-- 📧 zabdiel.rios17@gmail.com
+- 📧 zrc1756@gmail.com
 
 Always open to collaborate, learn, or just chat about tech! 🤝
 
