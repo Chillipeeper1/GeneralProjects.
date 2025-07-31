@@ -1,30 +1,30 @@
-# 👨‍💻 Proyectos Generales | Zabdiel Ríos
+# 👨‍💻 Personal Projects | Zabdiel Ríos
 
-> 🌱 Aprendiendo, creando y jugando con código.  
-> Donde las ideas se vuelven realidad, una línea a la vez.
-
----
-
-## 🚀 Sobre mí
-
-¡Hola! Soy **Zabdiel Cervantes**, apasionado por la programación, la inteligencia artificial y la ciencia de datos.  
-Mi enfoque principal es **Python**, pero me encanta experimentar con nuevas tecnologías, especialmente cuando involucran IA, Datos y Matematicas.
-
-Este repositorio es mi laboratorio personal: un lugar para probar ideas, aprender cosas nuevas y compartir lo que voy construyendo.
+> 🌱 Learning, building, and playing with code.  
+> Where ideas become real—one line at a time.
 
 ---
 
-## 🌐 Redes y contacto
+## 🚀 About Me
+
+Hi! I'm **Zabdiel Ríos**, passionate about programming, artificial intelligence, Data science and more.  
+My main focus is **Python**, but I love experimenting with new technologies—especially when they involve AI, APIs, Data and Maths.
+
+This repository is my personal playground: a space to test ideas, learn new things, and share what I build along the way.
+
+---
+
+## 🌐 Contact & Socials
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zabdiel-rios-cervantes-3b5aa5218/)
 - 🐙 [GitHub](https://github.com/Chillipeeper1)
-- 📧 zrc1756@gmail.com
+- 📧 zabdiel.rios17@gmail.com
 
-¡Siempre abierto a colaborar, aprender o charlar sobre tech! 🤝
+Always open to collaborate, learn, or just chat about tech! 🤝
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,43 +33,43 @@ Este repositorio es mi laboratorio personal: un lugar para probar ideas, aprende
 ![Streamlit](https://img.shields.io/badge/Streamlit-F0F2F6?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
 
-## 🧪 ¿Qué encontrarás aquí?
+---
 
-- 📦 Proyectos pequeños pero funcionales.
-- 💡 Ideas exploratorias con inteligencia artificial.
-- 🧑‍💻 Código limpio, comentado y listo para inspirarte.
-- 🔄 Constante aprendizaje y mejora.
+## 🧪 What You’ll Find Here
 
-> *"No necesitas construir lo más grande para crear algo valioso."*
+- 📦 Small but functional projects.
+- 💡 Exploratory ideas with artificial intelligence.
+- 🧑‍💻 Clean, commented code ready to inspire you.
+- 🔄 Constant learning and iteration.
+
+> *"You don’t need to build the biggest thing to create something valuable."*
 
 ---
 
-## 🎁 ¿Quieres usar algo de aquí?
+## 🎁 Want to use something from here?
 
-¡Adelante! siéntete libre de:
-- Reutilizar código.
-- Aprender de los ejemplos.
-- Mejorarlos y hacer tus propias versiones.
+Go ahead! feel free to:
+- Reuse code.
+- Learn from the examples.
+- Improve and build your own versions.
 
-Solo agradecería que menciones el origen si compartes algo derivado. 🙏
-
----
-
-
-## ⭐ Si te gusta lo que ves...
-
-Dale una estrella a este repositorio o a alguno de mis proyectos.  
-¡Motiva mucho saber que alguien encuentra útil lo que hago! 🌟
+I’d just appreciate a mention if you share something derived. 🙏
 
 ---
 
-## 🚀 ¿Qué sigue?
 
-Estoy explorando:
-- Más integraciones con modelos de IA.
-- Aplicaciones full-stack con Python.
-- Automatizaciones inteligentes.
-- Manipulacion de datos y visualizacion con Python.
-- Implementacion de modelos de machine learning con Python.
+## ⭐ If you like what you see...
 
-¡Vuelve pronto para ver qué sigue! 😉
+Consider giving this repo (or any of my projects) a star.  
+It means a lot to know someone finds value in what I build! 🌟
+
+---
+
+## 🚀 What’s next?
+
+I’m currently exploring:
+- More AI model integrations.
+- Full-stack apps with Python.
+- Smart automations.
+
+Stay tuned for what’s coming next! 😉
